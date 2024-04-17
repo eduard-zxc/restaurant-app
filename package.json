@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "main": "myProject.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Eduard Ene",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.5.0",
+    "mongoose": "^5.13.22",
+    "mssql": "^10.0.2",
+    "socket.io": "^4.6.1",
+    "socket.io-client": "^4.6.1"
+  },
+  "name": "tmppp",
+  "description": ""
+}
